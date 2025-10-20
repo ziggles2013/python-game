@@ -1,2 +1,11 @@
-<h1>this is my game</h1>
-<p>hi this is my game and if you would like to download it that would be nice</p>
+#vs code
+
+visual studio code is where you can code things and post on github
+
+## installion
+
+first clone this rospotory
+
+<!-- start:code block -->
+# clone this repostory
+git clone 
